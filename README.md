@@ -52,3 +52,41 @@ index.html<!DOCTYPE html>
 
 </body>
 </html>
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>DiablitoSensei – 666ISR Security Console</title>
+
+  <meta name="description" content="Simulación educativa de ciberseguridad enfocada en defensa, hardening y formación responsable en IA.">
+
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+  <header>
+    <h1>🔥 DiablitoSensei – 666ISR Security Console</h1>
+    <p>Simulación educativa de ciberseguridad.</p>
+  </header>
+
+  <main>
+    <section>
+      <h2>Modo Blue Team</h2>
+      <p>Entrenamiento en defensa digital, monitoreo y hardening de sistemas.</p>
+    </section>
+
+    <section>
+      <button id="startBtn">Iniciar Simulación</button>
+    </section>
+  </main>
+
+  <footer>
+    <p>© 2026 666ISR | Uso educativo y responsable</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
+
