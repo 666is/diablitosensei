@@ -39,3 +39,16 @@ DiablitoSensei – 666ISR Interactive Cybersecurity Simulation Console
   <script src="script.js"></script>
 </body>
 </html>
+index.html<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>DiablitoSensei – 666ISR</title>
+</head>
+<body>
+
+  <h1>🔥 DiablitoSensei – 666ISR Security Console</h1>
+  <p>Simulación educativa de ciberseguridad.</p>
+
+</body>
+</html>
